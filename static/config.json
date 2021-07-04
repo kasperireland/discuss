@@ -1,7 +1,7 @@
 {
     "windowTitle": "Discuss",
     "startupScreen": "welcome",
-    "kiwiServer": "irc.libera.chat:6697",
+    "kiwiServer": "http://irc.libera.chat:6697",
     "restricted": false,
     "theme": "Default",
     "themes": [
