@@ -1,7 +1,7 @@
 {
     "windowTitle": "Discuss",
     "startupScreen": "welcome",
-    "kiwiServer": "https://irc.libera.chat",
+    "kiwiServer": "https://irc.freenode.net",
     "restricted": false,
     "theme": "Default",
     "themes": [
